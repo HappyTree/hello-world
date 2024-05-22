@@ -1,4 +1,4 @@
 # hello-world
-start study github
-Today, I will study github.
-I will strive.
+1. code -> binary executable file
+2. executable file -> process
+3. output string "Hello World!\n"
